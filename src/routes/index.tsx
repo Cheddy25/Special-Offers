@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Welcome to Cheddyshop</Title>
-      <h1>Hello world!</h1>
+      <h1>Welcome to Cheddyshop!</h1>
       <Counter />
       <p>
         Visit{" "}
