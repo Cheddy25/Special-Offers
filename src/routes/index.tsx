@@ -8,11 +8,8 @@ export default function Home() {
       <h1>Welcome to Cheddyshop!</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="" target="_blank">
           start.solidjs.com
         </a>{" "}
-
       </p>
     </main>
   );
